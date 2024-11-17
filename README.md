@@ -12,7 +12,7 @@ A simple PyQt5-based application that allows users to select a video file, extra
 - Progress bar indicating transcription progress.
 
 ## Prerequisites
-- Python 3.7 or later
+- Python 3.10 or later
 - [moviepy](https://pypi.org/project/moviepy/) for audio extraction
 - [whisper](https://github.com/openai/whisper) for transcription
 - [PyQt5](https://pypi.org/project/PyQt5/) for the GUI
@@ -21,5 +21,5 @@ A simple PyQt5-based application that allows users to select a video file, extra
 
 1. **Clone the Repository**
    ```bash
-   git clone [https://github.com/yourusername/video-to-srt-transcriber](https://github.com/aionstech/VideoToSRT.git
+   git clone https://github.com/yourusername/video-to-srt-transcriber](https://github.com/aionstech/VideoToSRT.git
    cd VideoToSRT
